@@ -3,4 +3,4 @@ function calculaArea(baseAltura) {
     return area;
 }
 
-calculaArea(450)
+console.log(calculaArea(450))
